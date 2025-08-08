@@ -17,7 +17,7 @@ func main() {
 	// above method can scan only one element
 	// I.E if we give space it exits scanning
 	// --------------------------------------------------------------------------------------
-	//BUFIO METHOS
+	//BUFIO METHOD
 
 	fmt.Println("\nENTER FULL NAME")
 	scanner := bufio.NewReader(os.Stdin)
